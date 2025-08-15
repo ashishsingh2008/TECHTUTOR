@@ -63,7 +63,7 @@ const ContactUsForm = () => {
           />
           {errors.firstname && (
             <span className="-mt-1 text-[12px] text-yellow-100">
-              Please enter your name.
+              Please Enter Your Name.
             </span>
           )}
         </div>
@@ -96,7 +96,7 @@ const ContactUsForm = () => {
         />
         {errors.email && (
           <span className="-mt-1 text-[12px] text-yellow-100">
-            Please enter your Email address.
+            Please Enter Your Email Address.
           </span>
         )}
       </div>
@@ -165,7 +165,7 @@ const ContactUsForm = () => {
         />
         {errors.message && (
           <span className="-mt-1 text-[12px] text-yellow-100">
-            Please enter your Message.
+            Please Enter Your Message.
           </span>
         )}
       </div>

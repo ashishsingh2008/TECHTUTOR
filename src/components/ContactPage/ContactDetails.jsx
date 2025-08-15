@@ -7,21 +7,21 @@ const contactDetails = [
   {
     icon: "HiChatBubbleLeftRight",
     heading: "Chat on us",
-    description: "Our friendly team is here to help.",
-    details: "info@TechTutor.com",
+    description: "Our friendly and dedicated team is always ready to help you.",
+    details: "Info@TechTour.com",
   },
   {
     icon: "BiWorld",
     heading: "Visit us",
-    description: "Come and say hello at our office HQ.",
+    description: "We’d love to welcome you to our headquarters.",
     details:
-      "Akshya Nagar 1st Block 1st Cross, Rammurthy nagar, Bangalore-560016",
+      "IIT (ISM) Aquamarin Hostel P Block , Dhanbad, Jharkhand-826004",
   },
   {
     icon: "IoCall",
     heading: "Call us",
-    description: "Mon - Fri From 8am to 5pm",
-    details: "+123 456 7869",
+    description: "Mon - Fri From 8:00 PM to 5:00 PM",
+    details: "+91 8174083875",
   },
 ]
 

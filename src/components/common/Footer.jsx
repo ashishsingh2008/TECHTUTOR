@@ -172,7 +172,7 @@ const Footer = () => {
             })}
           </div>
 
-          <div className="text-center">Made with ❤️ Ashish Singh © 2025 TechTutor</div>
+          <div className="text-center">Made With ❤️ Ashish Singh © 2025 TechTutor</div>
         </div>
       </div>
     </div>
